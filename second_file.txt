@@ -1,6 +1,5 @@
 This is my second test file adding into git
 New lines added here
-Add some more lines to check
+Add some more lines to check I am adding few more lines to this document
 
-This is new change i have added..
 
